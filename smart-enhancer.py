@@ -12,7 +12,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-bot = Bot(token='YOUR_TOKEN_HERE')   # REPLACE YOUR TELEGRAM BOT TOKEN HERE
+bot = Bot(token='7865849668:AAGMXPSgbQf5j2ihbbCSOMLcq6khVU6A7u0')   # REPLACE YOUR TELEGRAM BOT TOKEN HERE
 dp = Dispatcher(bot)
 
 API_KEY = "REMINI_API_KEY"   # REPLACE YOUR REMINI API KEY THAT HAS CREDITS
